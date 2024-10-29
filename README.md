@@ -1,4 +1,4 @@
-<h5>Hola, soy <a href="https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA">Tahiana Wanda D' Astolfo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h5>
+<h4>Hola, soy <a href="https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA">Tahiana Wanda D' Astolfo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h5>
 
 <h4>Mi interés de investigación:</h4>
 <ul>
@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
 </div>
 
-<h3 >Conéctate conmigo:</h3>
+<h3 >Contáctate conmigo:</h3>
 <hr>
 <div style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/tahiana-wanda-d-astolfo-454bb31b4/" target="_blank">
