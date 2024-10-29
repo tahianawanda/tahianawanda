@@ -15,7 +15,7 @@
 </ul>
 
 <h3> Habilidades </h3>
-<hr>
+
 
 <h4>Lenguajes</h4>
 <div style="display: flex; gap: 10px;">
@@ -45,7 +45,7 @@
 </div>
 
 <h3 >Contáctate conmigo:</h3>
-<hr>
+
 <div style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/tahiana-wanda-d-astolfo-454bb31b4/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
