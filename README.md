@@ -44,7 +44,6 @@ class Bio {
             "- 👯 Busco colaborar en:"                 => "Proyectos relacionados con Laravel",
             "- 🤔 Busco ayuda con:"                    => "Cualquier cosa relacionada con lo que estoy aprendiendo actualmente 😅",
             "- 💬 Pregúntame sobre:"                   => "PHP, Laravel, SQL, Desarrollo Web",
-            "- 📫 Cómo contactarme:"                   => "https://www.linkedin.com/in/tahiana-wanda-d-astolfo-454bb31b4/",
         ];
     }
 
