@@ -38,12 +38,12 @@ class Bio {
 
     public function __construct() {
         $this->data = [
-            "- ⚡ Breve biografía:"                    => "Una especie de híbrido entre metalero-synthWave-cyberPunk-melómano-adicto a los equipos-músico amateur-viajero-amante de la comida-gamer-programador-amante de los gatos-aficionado a los deportes",
-            "- 🔭 Actualmente trabajando en:"          => "Tredicom como Desarrollador de Software Senior --- UAdeC como Profesor de Medio Tiempo",
-            "- 🌱 Actualmente aprendiendo:"            => "Golang, MongoDB, RabbitMQ, K8s, GCP (Tecnologías de mi empresa) --- Mejorando mis habilidades en Front End para el stack MERN (Objetivo personal)",
-            "- 👯 Busco colaborar en:"                 => "Proyectos relacionados con Python, Golang y Docker",
+            "- ⚡ Breve biografía:"                    => "Soy desarrolladora con experiencia en tecnologías web, especialmente en el entorno de desarrollo Laravel y herramientas asociadas, como Tailwind CSS y Vite. Tengo una sólida base en lenguajes como HTML, CSS y PHP, así como en sistemas de control de versiones como Git. Me interesa crear soluciones eficientes y escalables que se adapten a las necesidades del usuario, y continuamente busco mejorar mis habilidades y conocimientos. Trabajo en proyectos tanto en equipo como de forma independiente, siempre con un enfoque en la calidad y la funcionalidad del producto final.",
+            "-  🔭 Actualmente en búsqueda de oportunidades para desarrollar y expandir mis habilidades en tecnología.
+            "- 🌱 Actualmente aprendiendo:"            => "Mejorando mis habilidades en tecnologías backend.",
+            "- 👯 Busco colaborar en:"                 => "Proyectos relacionados con Laravel",
             "- 🤔 Busco ayuda con:"                    => "Cualquier cosa relacionada con lo que estoy aprendiendo actualmente 😅",
-            "- 💬 Pregúntame sobre:"                   => "Python, PHP, Laravel, SQL, Diseño y Arquitectura de Software, Desarrollo Web y SEO",
+            "- 💬 Pregúntame sobre:"                   => "PHP, Laravel, SQL, Desarrollo Web",
             "- 📫 Cómo contactarme:"                   => "https://github.com/AnhellO#you-can-reach-me-at-alien",
         ];
     }
