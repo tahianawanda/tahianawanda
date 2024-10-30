@@ -39,7 +39,7 @@ class Bio {
     public function __construct() {
         $this->data = [
             "- ⚡ Breve biografía:"                    => "Soy desarrolladora con experiencia en tecnologías web, especialmente en el entorno de desarrollo Laravel y herramientas asociadas, como Tailwind CSS y Vite. Tengo una sólida base en lenguajes como HTML, CSS y PHP, así como en sistemas de control de versiones como Git. Me interesa crear soluciones eficientes y escalables que se adapten a las necesidades del usuario, y continuamente busco mejorar mis habilidades y conocimientos. Trabajo en proyectos tanto en equipo como de forma independiente, siempre con un enfoque en la calidad y la funcionalidad del producto final.",
-            "-  🔭 Actualmente en búsqueda de oportunidades para desarrollar y expandir mis habilidades en tecnología."
+            "-  🔭 Trabajo:"                           => "Actualmente en búsqueda de oportunidades para desarrollar y expandir mis habilidades en tecnología."
             "- 🌱 Actualmente aprendiendo:"            => "Mejorando mis habilidades en tecnologías backend.",
             "- 👯 Busco colaborar en:"                 => "Proyectos relacionados con Laravel",
             "- 🤔 Busco ayuda con:"                    => "Cualquier cosa relacionada con lo que estoy aprendiendo actualmente 😅",
