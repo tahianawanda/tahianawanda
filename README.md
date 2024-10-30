@@ -4,7 +4,9 @@
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-<h3> Habilidades </h3>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
+<br>
 
 
 <h4>Lenguajes y otras tecnologias</h4>
@@ -51,3 +53,11 @@ main();
 ?>
 
 ```
+
+<h3 >¡Conectémonos...!</h3>
+
+<div style="display: flex; gap: 10px;">
+    <a href="https://www.linkedin.com/in/tahiana-wanda-d-astolfo-454bb31b4/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
