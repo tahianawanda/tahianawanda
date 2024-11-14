@@ -39,10 +39,10 @@ class Bio {
     public function __construct() {
         $this->data = [
             "- ⚡ Breve biografía:"     =>     "Soy desarrolladora backend en entorno de desarrollo Laravel. Tengo
-                                                una sólida base en lenguajes como HTML, CSS y PHP, así como en
-                                                sistemas de control de versiones como Git. Trabajo en proyectos
-                                                tanto en equipo como de forma independiente, siempre con un enfoque
-                                                en la calidad y la funcionalidad del producto final",
+                                                base en lenguajes como HTML, CSS y PHP, así como en sistemas de
+                                                control de versiones como Git. Trabajo en proyectos tanto en equipo
+                                                como de forma independiente, siempre con un enfoque en la calidad y
+                                                la funcionalidad del producto final",
             "- 👯 Busco colaborar en:"  =>     "Proyectos relacionados con Laravel"
         ];
     }
