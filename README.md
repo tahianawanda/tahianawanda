@@ -1,4 +1,4 @@
-###¡Hola, me llamo Tahiana!
+### ¡Hola, me llamo Tahiana!
 #### Soy desarrolladora Especializada en Node.js/Express, creación de APIs REST robustas (MVC, JWT, MySQL) con foco en código limpio, documentación precisa y soluciones escalables.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
