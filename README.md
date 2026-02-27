@@ -1,6 +1,6 @@
-# ¡Hola, me llamo Tahiana!
-## Full Stack Developer ⚡️ React.js | Nest.js | Docker | PostgreSQL
-### Soy Desarrolladora Full Stack con experiencia en frontend (React.js) y backend (Nest.js). Me interesa construir aplicaciones personalizadas, claras y escalables, priorizando siempre la experiencia del usuario. Actualmente trabajo en proyectos reales en ambas áreas, consolidando mis habilidades como desarrolladora full stack.
+## ¡Hola, me llamo Tahiana!
+### Full Stack Developer ⚡️ React.js | Nest.js | Docker | PostgreSQL
+#### Soy Desarrolladora Full Stack con experiencia en frontend (React.js) y backend (Nest.js). Me interesa construir aplicaciones personalizadas, claras y escalables, priorizando siempre la experiencia del usuario. Actualmente trabajo en proyectos reales en ambas áreas, consolidando mis habilidades como desarrolladora full stack.
 
 ---
 
@@ -9,6 +9,7 @@
 💻 Lenguajes
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ⚛ Frameworks
 
