@@ -1,5 +1,6 @@
 ### ¡Hola, me llamo Tahiana!
-#### Soy desarrolladora especializada en Node.js/Express, creación de APIs REST robustas (MVC, JWT, MySQL) con foco en código limpio, documentación precisa y soluciones escalables.
+#### Full Stack Developer ⚡️ React.js | Nest.js | Docker | PostgreSQL
+##### Soy Desarrolladora Full Stack con experiencia en frontend (React.js) y backend (Nest.js). Me interesa construir aplicaciones personalizadas, claras y escalables, priorizando siempre la experiencia del usuario. Actualmente trabajo en proyectos reales en ambas áreas, consolidando mis habilidades como desarrolladora full stack.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
